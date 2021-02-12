@@ -1,1 +1,10 @@
-[]
+[
+  {
+    "uuid": "5a838586-0913-42fe-a888-b8069ef83c31",
+    "name": "Aedronax",
+    "created": "2021-02-12 15:56:34 +0000",
+    "source": "Hadeway",
+    "expires": "forever",
+    "reason": "Banned by an operator."
+  }
+]
