@@ -41,17 +41,17 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/gray_wool": {
-    "criteria": {
-      "has_white_wool": "2021-02-12 19:46:20 +0000"
-    },
-    "done": true
-  },
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
       "minecraft:silverfish": "2021-02-12 19:28:39 +0000"
     },
     "done": false
+  },
+  "minecraft:recipes/building_blocks/gray_wool": {
+    "criteria": {
+      "has_white_wool": "2021-02-12 19:46:20 +0000"
+    },
+    "done": true
   },
   "minecraft:recipes/building_blocks/black_wool": {
     "criteria": {
