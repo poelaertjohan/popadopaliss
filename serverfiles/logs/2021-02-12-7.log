@@ -1,0 +1,38 @@
+[23:28:31] [main/INFO]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
+[23:28:32] [main/WARN]: Ambiguity between arguments [teleport, destination] and [teleport, targets] with inputs: [Player, 0123, @e, dd12be42-52a9-4a91-a8a1-11c01849e498]
+[23:28:32] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
+[23:28:32] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, targets] with inputs: [0.1 -0.5 .9, 0 0 0]
+[23:28:32] [main/WARN]: Ambiguity between arguments [teleport, targets] and [teleport, destination] with inputs: [Player, 0123, dd12be42-52a9-4a91-a8a1-11c01849e498]
+[23:28:32] [main/WARN]: Ambiguity between arguments [teleport, targets, location] and [teleport, targets, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
+[23:28:32] [main/INFO]: Reloading ResourceManager: Default
+[23:28:33] [Worker-Main-2/INFO]: Loaded 7 recipes
+[23:28:34] [Worker-Main-2/INFO]: Loaded 927 advancements
+[23:28:36] [Server thread/INFO]: Starting minecraft server version 1.16.5
+[23:28:36] [Server thread/INFO]: Loading properties
+[23:28:36] [Server thread/INFO]: Default game type: SURVIVAL
+[23:28:36] [Server thread/INFO]: Generating keypair
+[23:28:36] [Server thread/INFO]: Starting Minecraft server on *:25565
+[23:28:36] [Server thread/INFO]: Using epoll channel type
+[23:28:36] [Server thread/INFO]: Preparing level "world"
+[23:28:36] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[23:28:38] [Server thread/INFO]: Preparing spawn area: 0%
+[23:28:38] [Server thread/INFO]: Preparing spawn area: 0%
+[23:28:38] [Server thread/INFO]: Preparing spawn area: 0%
+[23:28:38] [Server thread/INFO]: Preparing spawn area: 0%
+[23:28:38] [Worker-Main-2/INFO]: Preparing spawn area: 0%
+[23:28:39] [Server thread/INFO]: Preparing spawn area: 31%
+[23:28:40] [Server thread/INFO]: Time elapsed: 3302 ms
+[23:28:40] [Server thread/INFO]: Done (3.449s)! For help, type "help"
+[23:28:40] [Server thread/INFO]: Starting GS4 status listener
+[23:28:40] [Query Listener #1/INFO]: Query running on 0.0.0.0:25565
+[23:28:40] [Server thread/INFO]: Thread Query Listener started
+[23:29:15] [User Authenticator #1/INFO]: UUID of player Hadeway is df4e1c78-f0ba-4259-9881-ef15eeeaefff
+[23:29:15] [Server thread/INFO]: Hadeway[/141.134.37.127:58914] logged in with entity id 221 at (-34.288984306587714, 124.64850868941292, 57.0723646981979)
+[23:29:15] [Server thread/INFO]: Hadeway joined the game
+[23:29:41] [Server thread/INFO]: Hadeway lost connection: Disconnected
+[23:29:41] [Server thread/INFO]: Hadeway left the game
+[23:30:03] [User Authenticator #2/INFO]: UUID of player Hadeway is df4e1c78-f0ba-4259-9881-ef15eeeaefff
+[23:30:03] [Server thread/INFO]: Hadeway[/141.134.37.127:58949] logged in with entity id 287 at (-34.288984306587714, 124.64850868941292, 57.0723646981979)
+[23:30:03] [Server thread/INFO]: Hadeway joined the game
+[23:30:09] [Server thread/INFO]: Hadeway lost connection: Disconnected
+[23:30:09] [Server thread/INFO]: Hadeway left the game
