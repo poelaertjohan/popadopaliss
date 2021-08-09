@@ -29,12 +29,6 @@
     },
     "done": true
   },
-  "minecraft:recipes/misc/light_blue_dye_from_blue_orchid": {
-    "criteria": {
-      "has_red_flower": "2021-04-02 21:17:53 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/combat/iron_sword": {
     "criteria": {
       "has_iron_ingot": "2021-04-05 11:55:42 +0000"
@@ -56,12 +50,6 @@
   "minecraft:recipes/decorations/yellow_stained_glass_pane_from_glass_pane": {
     "criteria": {
       "has_glass_pane": "2021-04-04 22:26:18 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/chiseled_stone_bricks": {
-    "criteria": {
-      "has_stone_bricks": "2021-04-04 22:09:51 +0000"
     },
     "done": true
   },
@@ -143,12 +131,6 @@
     },
     "done": true
   },
-  "minecraft:recipes/misc/gold_ingot_from_blasting": {
-    "criteria": {
-      "has_gold_ore": "2021-04-04 21:16:45 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/decorations/torch": {
     "criteria": {
       "has_stone_pickaxe": "2021-05-03 16:32:29 +0000"
@@ -176,12 +158,6 @@
   "minecraft:recipes/building_blocks/stone_brick_slab_from_stone_stonecutting": {
     "criteria": {
       "has_stone": "2021-04-04 22:07:54 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/iron_ingot_from_blasting": {
-    "criteria": {
-      "has_iron_ore": "2021-04-02 22:34:34 +0000"
     },
     "done": true
   },
@@ -407,12 +383,6 @@
     },
     "done": true
   },
-  "minecraft:recipes/decorations/birch_sign": {
-    "criteria": {
-      "has_birch_planks": "2021-04-04 21:04:39 +0000"
-    },
-    "done": true
-  },
   "minecraft:adventure/root": {
     "criteria": {
       "killed_something": "2021-03-29 21:21:50 +0000"
@@ -635,6 +605,12 @@
     },
     "done": true
   },
+  "minecraft:husbandry/tame_an_animal": {
+    "criteria": {
+      "tamed_animal": "2021-07-05 20:11:49 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/cooked_porkchop_from_campfire_cooking": {
     "criteria": {
       "has_porkchop": "2021-04-01 23:08:17 +0000"
@@ -785,6 +761,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/glowstone": {
+    "criteria": {
+      "has_glowstone_dust": "2021-07-05 19:22:01 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/tripwire_hook": {
     "criteria": {
       "has_string": "2021-04-01 23:12:43 +0000"
@@ -857,15 +839,15 @@
     },
     "done": true
   },
-  "minecraft:recipes/decorations/oak_sign": {
-    "criteria": {
-      "has_oak_planks": "2021-03-29 21:26:32 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/food/cooked_porkchop_from_smoking": {
     "criteria": {
       "has_porkchop": "2021-04-01 23:08:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/oak_sign": {
+    "criteria": {
+      "has_planks": "2021-07-05 19:43:38 +0000"
     },
     "done": true
   },
@@ -943,18 +925,22 @@
   },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
+      "minecraft:cold_ocean": "2021-07-05 19:30:07 +0000",
       "minecraft:mountains": "2021-03-29 21:18:03 +0000",
       "minecraft:forest": "2021-04-02 23:37:42 +0000",
       "minecraft:taiga": "2021-03-29 21:18:14 +0000",
       "minecraft:desert_hills": "2021-04-02 23:04:58 +0000",
       "minecraft:taiga_hills": "2021-03-29 21:38:46 +0000",
       "minecraft:desert": "2021-04-02 21:19:59 +0000",
+      "minecraft:birch_forest": "2021-07-05 18:35:51 +0000",
       "minecraft:badlands": "2021-04-02 21:23:52 +0000",
       "minecraft:beach": "2021-04-02 21:26:50 +0000",
       "minecraft:dark_forest": "2021-03-29 21:19:55 +0000",
       "minecraft:river": "2021-03-29 21:35:31 +0000",
+      "minecraft:birch_forest_hills": "2021-07-05 18:35:34 +0000",
       "minecraft:wooded_mountains": "2021-03-29 21:37:29 +0000",
       "minecraft:wooded_hills": "2021-04-02 21:50:49 +0000",
+      "minecraft:stone_shore": "2021-07-05 18:42:57 +0000",
       "minecraft:wooded_badlands_plateau": "2021-04-04 21:38:59 +0000",
       "minecraft:swamp": "2021-03-29 21:20:08 +0000",
       "minecraft:plains": "2021-03-29 21:14:23 +0000"
@@ -1075,12 +1061,6 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/lapis_block": {
-    "criteria": {
-      "has_lapis": "2021-04-04 21:15:40 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/combat/netherite_sword_smithing": {
     "criteria": {
       "has_netherite_ingot": "2021-04-04 21:35:02 +0000"
@@ -1125,12 +1105,6 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/polished_diorite": {
-    "criteria": {
-      "has_stone": "2021-04-04 21:21:30 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/light_gray_wool": {
     "criteria": {
       "has_white_wool": "2021-03-29 21:21:51 +0000"
@@ -1170,12 +1144,6 @@
   "minecraft:recipes/building_blocks/red_wool": {
     "criteria": {
       "has_white_wool": "2021-03-29 21:21:51 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/light_gray_dye_from_oxeye_daisy": {
-    "criteria": {
-      "has_red_flower": "2021-04-05 19:06:52 +0000"
     },
     "done": true
   },
@@ -1293,6 +1261,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/pink_carpet": {
+    "criteria": {
+      "has_pink_wool": "2021-07-05 19:27:09 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/blue_stained_glass_pane_from_glass_pane": {
     "criteria": {
       "has_glass_pane": "2021-04-04 22:26:18 +0000"
@@ -1359,6 +1333,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/firework_rocket_simple": {
+    "criteria": {
+      "has_gunpowder": "2021-07-05 18:30:08 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/mushroom_stew": {
     "criteria": {
       "has_brown_mushroom": "2021-04-02 21:17:49 +0000"
@@ -1387,6 +1367,7 @@
     "criteria": {
       "cooked_porkchop": "2021-04-05 20:12:11 +0000",
       "chicken": "2021-03-29 21:38:41 +0000",
+      "cooked_mutton": "2021-07-05 20:08:46 +0000",
       "cooked_beef": "2021-04-02 21:18:26 +0000",
       "beef": "2021-03-29 21:38:35 +0000",
       "baked_potato": "2021-04-04 20:54:03 +0000",
@@ -1486,6 +1467,12 @@
   "minecraft:recipes/building_blocks/light_blue_concrete_powder": {
     "criteria": {
       "has_sand": "2021-04-04 22:06:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/pink_banner": {
+    "criteria": {
+      "has_pink_wool": "2021-07-05 19:27:09 +0000"
     },
     "done": true
   },
@@ -1741,6 +1728,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/combat/spectral_arrow": {
+    "criteria": {
+      "has_glowstone_dust": "2021-07-05 19:22:01 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/diamond_shovel": {
     "criteria": {
       "has_diamond": "2021-04-02 22:39:43 +0000"
@@ -1804,12 +1797,6 @@
   "minecraft:recipes/redstone/birch_door": {
     "criteria": {
       "has_planks": "2021-04-04 21:04:39 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/slime_block": {
-    "criteria": {
-      "has_slime_ball": "2021-04-01 23:11:53 +0000"
     },
     "done": true
   },
@@ -1975,6 +1962,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/pink_bed": {
+    "criteria": {
+      "has_pink_wool": "2021-07-05 19:27:09 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/white_stained_glass": {
     "criteria": {
       "has_glass": "2021-04-04 22:06:14 +0000"
@@ -2008,12 +2001,6 @@
   "minecraft:recipes/building_blocks/coal_block": {
     "criteria": {
       "has_coal": "2021-04-02 22:37:27 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/gold_ingot": {
-    "criteria": {
-      "has_gold_ore": "2021-04-04 21:16:45 +0000"
     },
     "done": true
   },
@@ -2179,12 +2166,6 @@
     },
     "done": true
   },
-  "minecraft:recipes/misc/iron_ingot": {
-    "criteria": {
-      "has_iron_ore": "2021-04-02 22:34:34 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/decorations/blue_carpet_from_white_carpet": {
     "criteria": {
       "has_white_carpet": "2021-07-05 11:08:29 +0000"
@@ -2200,12 +2181,6 @@
   "minecraft:nether/obtain_blaze_rod": {
     "criteria": {
       "blaze_rod": "2021-07-05 11:02:06 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/polished_andesite": {
-    "criteria": {
-      "has_stone": "2021-04-04 21:15:05 +0000"
     },
     "done": true
   },
@@ -2284,12 +2259,6 @@
   "minecraft:recipes/decorations/brown_bed_from_white_bed": {
     "criteria": {
       "has_bed": "2021-04-02 21:36:16 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/polished_granite": {
-    "criteria": {
-      "has_stone": "2021-04-02 22:41:17 +0000"
     },
     "done": true
   },
@@ -2395,11 +2364,5 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/bone_block": {
-    "criteria": {
-      "has_bonemeal": "2021-04-04 22:30:04 +0000"
-    },
-    "done": true
-  },
-  "DataVersion": 2586
+  "DataVersion": 2730
 }

@@ -1,79 +1,63 @@
-[00:37:31] [Craft Scheduler Thread - 2056/INFO]: [0;32;1mChecking for updates via Spigot...[m
-[00:37:31] [Craft Scheduler Thread - 2056/INFO]: [0;37;22m[[0;36;1mCratesPlus[0;37;22m] [mNo update was found, you are running the latest version. Will check again later.[m
-[01:37:31] [Craft Scheduler Thread - 2063/INFO]: [0;32;1mChecking for updates via Spigot...[m
-[01:37:31] [Craft Scheduler Thread - 2063/INFO]: [0;37;22m[[0;36;1mCratesPlus[0;37;22m] [mNo update was found, you are running the latest version. Will check again later.[m
-[02:37:31] [Craft Scheduler Thread - 2071/INFO]: [0;32;1mChecking for updates via Spigot...[m
-[02:37:31] [Craft Scheduler Thread - 2071/INFO]: [0;37;22m[[0;36;1mCratesPlus[0;37;22m] [mNo update was found, you are running the latest version. Will check again later.[m
-[03:37:31] [Craft Scheduler Thread - 2080/INFO]: [0;32;1mChecking for updates via Spigot...[m
-[03:37:31] [Craft Scheduler Thread - 2080/INFO]: [0;37;22m[[0;36;1mCratesPlus[0;37;22m] [mNo update was found, you are running the latest version. Will check again later.[m
-[04:37:31] [Craft Scheduler Thread - 2088/INFO]: [0;32;1mChecking for updates via Spigot...[m
-[04:37:31] [Craft Scheduler Thread - 2088/INFO]: [0;37;22m[[0;36;1mCratesPlus[0;37;22m] [mNo update was found, you are running the latest version. Will check again later.[m
-[05:37:31] [Craft Scheduler Thread - 2097/INFO]: [0;32;1mChecking for updates via Spigot...[m
-[05:37:31] [Craft Scheduler Thread - 2097/INFO]: [0;37;22m[[0;36;1mCratesPlus[0;37;22m] [mNo update was found, you are running the latest version. Will check again later.[m
-[06:37:31] [Craft Scheduler Thread - 2106/INFO]: [0;32;1mChecking for updates via Spigot...[m
-[06:37:31] [Craft Scheduler Thread - 2106/INFO]: [0;37;22m[[0;36;1mCratesPlus[0;37;22m] [mNo update was found, you are running the latest version. Will check again later.[m
-[07:37:31] [Craft Scheduler Thread - 2115/INFO]: [0;32;1mChecking for updates via Spigot...[m
-[07:37:31] [Craft Scheduler Thread - 2115/INFO]: [0;37;22m[[0;36;1mCratesPlus[0;37;22m] [mNo update was found, you are running the latest version. Will check again later.[m
-[08:37:31] [Craft Scheduler Thread - 2123/INFO]: [0;32;1mChecking for updates via Spigot...[m
-[08:37:31] [Craft Scheduler Thread - 2123/INFO]: [0;37;22m[[0;36;1mCratesPlus[0;37;22m] [mNo update was found, you are running the latest version. Will check again later.[m
-[09:37:31] [Craft Scheduler Thread - 2132/INFO]: [0;32;1mChecking for updates via Spigot...[m
-[09:37:31] [Craft Scheduler Thread - 2132/INFO]: [0;37;22m[[0;36;1mCratesPlus[0;37;22m] [mNo update was found, you are running the latest version. Will check again later.[m
-[10:37:31] [Craft Scheduler Thread - 2140/INFO]: [0;32;1mChecking for updates via Spigot...[m
-[10:37:31] [Craft Scheduler Thread - 2140/INFO]: [0;37;22m[[0;36;1mCratesPlus[0;37;22m] [mNo update was found, you are running the latest version. Will check again later.[m
-[10:58:12] [User Authenticator #1/INFO]: UUID of player GeslachtZiekte is f6879add-ea51-46cb-84da-fbf0f9eeff49
-[10:58:13] [Server thread/INFO]: GeslachtZiekte[/86.89.10.118:52712] logged in with entity id 95 at ([world]-1139.9965735692856, 64.0, -6918.75408757968)
-[10:59:08] [Server thread/INFO]: GeslachtZiekte issued server command: /claimlist
-[10:59:19] [Server thread/INFO]: GeslachtZiekte issued server command: /claimslist
-[10:59:30] [Server thread/INFO]: GeslachtZiekte issued server command: /claimexplosion
-[10:59:40] [Server thread/INFO]: GeslachtZiekte issued server command: /sellclaim
-[10:59:50] [Server thread/INFO]: GeslachtZiekte issued server command: /unclaim
-[10:59:55] [Server thread/INFO]: GeslachtZiekte issued server command: /abandonallclaims
-[10:59:59] [Server thread/INFO]: GeslachtZiekte issued server command: /abandonallclaims confirm
-[11:01:21] [Server thread/WARN]: Boat (vehicle of GeslachtZiekte) moved wrongly! 0.4370222725450014
-[11:02:06] [Server thread/INFO]: GeslachtZiekte has made the advancement [Into Fire]
-[11:03:20] [Server thread/INFO]: GeslachtZiekte has made the advancement [Ice Bucket Challenge]
-[11:06:05] [Server thread/INFO]: Villager EntityVillager['Librarian'/433, l='ServerLevel[world]', x=-1097.30, y=70.50, z=-7063.30] died, message: 'Librarian was slain by Zombie'
-[11:10:52] [Server thread/ERROR]: POI data mismatch: never registered at BlockPosition{x=-1124, y=63, z=-6915}
-[11:10:53] [Server thread/ERROR]: POI data mismatch: never registered at BlockPosition{x=-1123, y=63, z=-6916}
-[11:10:53] [Server thread/ERROR]: POI data mismatch: never registered at BlockPosition{x=-1123, y=63, z=-6919}
-[11:10:53] [Server thread/ERROR]: POI data mismatch: never registered at BlockPosition{x=-1122, y=63, z=-6921}
-[11:14:53] [Server thread/INFO]: GeslachtZiekte has completed the challenge [Subspace Bubble]
-[11:18:24] [Server thread/WARN]: Skeleton Horse (vehicle of GeslachtZiekte) moved wrongly! 0.2716002175088761
-[11:18:25] [Server thread/WARN]: Skeleton Horse (vehicle of GeslachtZiekte) moved wrongly! 0.26484535672636866
-[11:18:25] [Server thread/WARN]: Skeleton Horse (vehicle of GeslachtZiekte) moved wrongly! 0.29825986729468923
-[11:21:52] [Server thread/WARN]: Skeleton Horse (vehicle of GeslachtZiekte) moved wrongly! 0.36699991191409254
-[11:25:59] [Server thread/WARN]: Skeleton Horse (vehicle of GeslachtZiekte) moved wrongly! 0.30281732259095406
-[11:27:23] [Server thread/WARN]: Skeleton Horse (vehicle of GeslachtZiekte) moved wrongly! 0.27258302267955514
-[11:27:23] [Server thread/WARN]: Skeleton Horse (vehicle of GeslachtZiekte) moved wrongly! 0.2725910240478697
-[11:27:23] [Server thread/WARN]: Skeleton Horse (vehicle of GeslachtZiekte) moved wrongly! 0.2725985517349727
-[11:27:23] [Server thread/WARN]: Skeleton Horse (vehicle of GeslachtZiekte) moved wrongly! 0.2726056337828595
-[11:27:23] [Server thread/WARN]: Skeleton Horse (vehicle of GeslachtZiekte) moved wrongly! 0.27261229657324293
-[11:27:23] [Server thread/WARN]: Skeleton Horse (vehicle of GeslachtZiekte) moved wrongly! 0.27261856492646075
-[11:27:23] [Server thread/WARN]: Skeleton Horse (vehicle of GeslachtZiekte) moved wrongly! 0.2726244621931073
-[11:27:23] [Server thread/WARN]: Skeleton Horse (vehicle of GeslachtZiekte) moved wrongly! 0.27263001034134504
-[11:27:23] [Server thread/WARN]: Skeleton Horse (vehicle of GeslachtZiekte) moved wrongly! 0.27263523003898626
-[11:27:23] [Server thread/WARN]: Skeleton Horse (vehicle of GeslachtZiekte) moved wrongly! 0.27264014073057297
-[11:27:23] [Server thread/WARN]: Skeleton Horse (vehicle of GeslachtZiekte) moved wrongly! 0.27264476070899946
-[11:27:23] [Server thread/WARN]: Skeleton Horse (vehicle of GeslachtZiekte) moved wrongly! 0.272649107184634
-[11:27:23] [Server thread/WARN]: Skeleton Horse (vehicle of GeslachtZiekte) moved wrongly! 0.27265319634875596
-[11:27:23] [Server thread/WARN]: Skeleton Horse (vehicle of GeslachtZiekte) moved wrongly! 0.27265704343449215
-[11:27:23] [Server thread/WARN]: Skeleton Horse (vehicle of GeslachtZiekte) moved wrongly! 0.2726606627725232
-[11:27:23] [Server thread/WARN]: Skeleton Horse (vehicle of GeslachtZiekte) moved wrongly! 0.27266406784565334
-[11:27:23] [Server thread/WARN]: Skeleton Horse (vehicle of GeslachtZiekte) moved wrongly! 0.27266727133837776
-[11:27:23] [Server thread/WARN]: Skeleton Horse (vehicle of GeslachtZiekte) moved wrongly! 0.27287210639156
-[11:27:24] [Server thread/WARN]: Skeleton Horse (vehicle of GeslachtZiekte) moved wrongly! 0.2567180719552198
-[11:28:15] [Server thread/INFO]: GeslachtZiekte lost connection: Disconnected
-[11:28:15] [Server thread/INFO]: GeslachtZiekte left the game
-[11:37:31] [Craft Scheduler Thread - 2149/INFO]: [0;32;1mChecking for updates via Spigot...[m
-[11:37:31] [Craft Scheduler Thread - 2149/INFO]: [0;37;22m[[0;36;1mCratesPlus[0;37;22m] [mNo update was found, you are running the latest version. Will check again later.[m
-[12:37:31] [Craft Scheduler Thread - 2156/INFO]: [0;32;1mChecking for updates via Spigot...[m
-[12:37:31] [Craft Scheduler Thread - 2156/INFO]: [0;37;22m[[0;36;1mCratesPlus[0;37;22m] [mNo update was found, you are running the latest version. Will check again later.[m
-[13:37:31] [Craft Scheduler Thread - 2165/INFO]: [0;32;1mChecking for updates via Spigot...[m
-[13:37:31] [Craft Scheduler Thread - 2165/INFO]: [0;37;22m[[0;36;1mCratesPlus[0;37;22m] [mNo update was found, you are running the latest version. Will check again later.[m
-[14:37:31] [Craft Scheduler Thread - 2173/INFO]: [0;32;1mChecking for updates via Spigot...[m
-[14:37:31] [Craft Scheduler Thread - 2173/INFO]: [0;37;22m[[0;36;1mCratesPlus[0;37;22m] [mNo update was found, you are running the latest version. Will check again later.[m
-[15:37:31] [Craft Scheduler Thread - 2182/INFO]: [0;32;1mChecking for updates via Spigot...[m
-[15:37:31] [Craft Scheduler Thread - 2182/INFO]: [0;37;22m[[0;36;1mCratesPlus[0;37;22m] [mNo update was found, you are running the latest version. Will check again later.[m
-[16:37:31] [Craft Scheduler Thread - 2190/INFO]: [0;32;1mChecking for updates via Spigot...[m
-[16:37:31] [Craft Scheduler Thread - 2190/INFO]: [0;37;22m[[0;36;1mCratesPlus[0;37;22m] [mNo update was found, you are running the latest version. Will check again later.[m
-[16:46:16] [Server thread/INFO]: There are 0 of a max of 20 players online: 
+[00:50:07] [Craft Scheduler Thread - 885/INFO]: [0;32;1mChecking for updates via Spigot...[m
+[00:50:08] [Craft Scheduler Thread - 885/INFO]: [0;37;22m[[0;36;1mCratesPlus[0;37;22m] [mNo update was found, you are running the latest version. Will check again later.[m
+[01:50:08] [Craft Scheduler Thread - 899/INFO]: [0;32;1mChecking for updates via Spigot...[m
+[01:50:08] [Craft Scheduler Thread - 899/INFO]: [0;37;22m[[0;36;1mCratesPlus[0;37;22m] [mNo update was found, you are running the latest version. Will check again later.[m
+[02:50:08] [Craft Scheduler Thread - 916/INFO]: [0;32;1mChecking for updates via Spigot...[m
+[02:50:08] [Craft Scheduler Thread - 916/INFO]: [0;37;22m[[0;36;1mCratesPlus[0;37;22m] [mNo update was found, you are running the latest version. Will check again later.[m
+[03:50:08] [Craft Scheduler Thread - 932/INFO]: [0;32;1mChecking for updates via Spigot...[m
+[03:50:08] [Craft Scheduler Thread - 932/INFO]: [0;37;22m[[0;36;1mCratesPlus[0;37;22m] [mNo update was found, you are running the latest version. Will check again later.[m
+[04:50:08] [Craft Scheduler Thread - 948/INFO]: [0;32;1mChecking for updates via Spigot...[m
+[04:50:08] [Craft Scheduler Thread - 948/INFO]: [0;37;22m[[0;36;1mCratesPlus[0;37;22m] [mNo update was found, you are running the latest version. Will check again later.[m
+[05:50:08] [Craft Scheduler Thread - 963/INFO]: [0;32;1mChecking for updates via Spigot...[m
+[05:50:08] [Craft Scheduler Thread - 963/INFO]: [0;37;22m[[0;36;1mCratesPlus[0;37;22m] [mNo update was found, you are running the latest version. Will check again later.[m
+[06:50:08] [Craft Scheduler Thread - 979/INFO]: [0;32;1mChecking for updates via Spigot...[m
+[06:50:08] [Craft Scheduler Thread - 979/INFO]: [0;37;22m[[0;36;1mCratesPlus[0;37;22m] [mNo update was found, you are running the latest version. Will check again later.[m
+[07:50:08] [Craft Scheduler Thread - 994/INFO]: [0;32;1mChecking for updates via Spigot...[m
+[07:50:08] [Craft Scheduler Thread - 994/INFO]: [0;37;22m[[0;36;1mCratesPlus[0;37;22m] [mNo update was found, you are running the latest version. Will check again later.[m
+[08:50:08] [Craft Scheduler Thread - 1009/INFO]: [0;32;1mChecking for updates via Spigot...[m
+[08:50:08] [Craft Scheduler Thread - 1009/INFO]: [0;37;22m[[0;36;1mCratesPlus[0;37;22m] [mNo update was found, you are running the latest version. Will check again later.[m
+[09:50:08] [Craft Scheduler Thread - 1024/INFO]: [0;32;1mChecking for updates via Spigot...[m
+[09:50:08] [Craft Scheduler Thread - 1024/INFO]: [0;37;22m[[0;36;1mCratesPlus[0;37;22m] [mNo update was found, you are running the latest version. Will check again later.[m
+[10:50:08] [Craft Scheduler Thread - 1040/INFO]: [0;32;1mChecking for updates via Spigot...[m
+[10:50:08] [Craft Scheduler Thread - 1040/INFO]: [0;37;22m[[0;36;1mCratesPlus[0;37;22m] [mNo update was found, you are running the latest version. Will check again later.[m
+[11:01:07] [User Authenticator #32/INFO]: UUID of player Tafeltennis is 00b023c4-c27e-423d-88cb-7878da832fce
+[11:01:08] [Server thread/INFO]: Tafeltennis[/178.119.27.111:60600] logged in with entity id 357518 at ([world]10932.351422440148, 66.5, 14677.472675509825)
+[11:36:23] [Server thread/INFO]: Tafeltennis lost connection: Disconnected
+[11:36:23] [Server thread/INFO]: Tafeltennis left the game
+[11:50:08] [Craft Scheduler Thread - 1057/INFO]: [0;32;1mChecking for updates via Spigot...[m
+[11:50:08] [Craft Scheduler Thread - 1057/INFO]: [0;37;22m[[0;36;1mCratesPlus[0;37;22m] [mNo update was found, you are running the latest version. Will check again later.[m
+[12:50:08] [Craft Scheduler Thread - 1072/INFO]: [0;32;1mChecking for updates via Spigot...[m
+[12:50:08] [Craft Scheduler Thread - 1072/INFO]: [0;37;22m[[0;36;1mCratesPlus[0;37;22m] [mNo update was found, you are running the latest version. Will check again later.[m
+[13:03:22] [Server thread/INFO]: There are 0 of a max of 20 players online: 
+[13:50:08] [Craft Scheduler Thread - 1088/INFO]: [0;32;1mChecking for updates via Spigot...[m
+[13:50:08] [Craft Scheduler Thread - 1088/INFO]: [0;37;22m[[0;36;1mCratesPlus[0;37;22m] [mNo update was found, you are running the latest version. Will check again later.[m
+[14:50:08] [Craft Scheduler Thread - 1103/INFO]: [0;32;1mChecking for updates via Spigot...[m
+[14:50:08] [Craft Scheduler Thread - 1103/INFO]: [0;37;22m[[0;36;1mCratesPlus[0;37;22m] [mNo update was found, you are running the latest version. Will check again later.[m
+[15:34:29] [User Authenticator #33/INFO]: UUID of player Hadeway is df4e1c78-f0ba-4259-9881-ef15eeeaefff
+[15:34:30] [Server thread/INFO]: Hadeway[/78.23.149.108:65139] logged in with entity id 366479 at ([world]34849.30000001192, 101.0, 35446.30000001192)
+[15:38:15] [Server thread/INFO]: Hadeway issued server command: //schematic list
+[15:46:05] [Server thread/INFO]: Hadeway lost connection: Disconnected
+[15:46:05] [Server thread/INFO]: Hadeway left the game
+[15:50:08] [Craft Scheduler Thread - 1117/INFO]: [0;32;1mChecking for updates via Spigot...[m
+[15:50:09] [Craft Scheduler Thread - 1117/INFO]: [0;37;22m[[0;36;1mCratesPlus[0;37;22m] [mNo update was found, you are running the latest version. Will check again later.[m
+[16:12:45] [Server thread/INFO]: Stopping the server
+[16:12:45] [Server thread/INFO]: Stopping server
+[16:12:45] [Server thread/INFO]: [GriefPrevention] Disabling GriefPrevention v16.17.1-2b69191
+[16:12:45] [Server thread/INFO]: [GriefPrevention] GriefPrevention disabled.
+[16:12:45] [Server thread/INFO]: [MineMaze] Disabling MineMaze v2.1
+[16:12:45] [Server thread/INFO]: [WorldGuard] Disabling WorldGuard v7.0.4+f7ff984
+[16:12:45] [Server thread/INFO]: [WorldGuard] Shutting down executor and cancelling any pending tasks...
+[16:12:45] [Server thread/INFO]: [SleepPercentage] Disabling SleepPercentage v1.2.1
+[16:12:45] [Server thread/INFO]: [OpenInv] Disabling OpenInv v4.1.8
+[16:12:45] [Server thread/INFO]: [WorldEdit] Disabling WorldEdit v7.2.6-beta-02+2e45a20
+[16:12:45] [Server thread/INFO]: Unregistering com.sk89q.worldedit.bukkit.BukkitServerInterface from WorldEdit
+[16:12:45] [Server thread/INFO]: [CratesPlus] Disabling CratesPlus v4.5.3
+[16:12:45] [Server thread/INFO]: Saving players
+[16:12:45] [Server thread/INFO]: Saving worlds
+[16:12:45] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[16:12:50] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world_nether]'/minecraft:the_nether
+[16:12:51] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world_the_end]'/minecraft:the_end
+[16:12:51] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[16:12:51] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[16:12:51] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[16:12:51] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
